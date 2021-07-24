@@ -1,5 +1,5 @@
 # DeepLearning
-Reproduction project for Deep Learning
+Reproduction project for Deep Learning where we studied the effects of dropout as a regulaizer for deep neural networks. 
 
 Please find the blogpost [here](DeepLearningReport.ipynb)
 
