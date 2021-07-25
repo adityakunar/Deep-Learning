@@ -1,4 +1,4 @@
-# DeepLearning
+# Deep Learning
 We studied the effects of dropout as a regularizer to prevent overfitting for deep neural networks. Our main aim was to reproduce the findings of the original paper. We conducted experiments with different flavours of dropout i.e Bernoulli and Gaussian on multiple datasets such as MNIST and CIFAR10 and analyzed our results with respect to the paper. Please find our blogpost detailing our findings [here](DeepLearningReport.ipynb).
 
 All notebooks can be found [here](code/)
