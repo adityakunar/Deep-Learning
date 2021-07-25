@@ -1,5 +1,5 @@
 # DeepLearning
-Reproduction project for Deep Learning where we studied the effects of dropout as a regularizer for deep neural networks.
+Reproduction project for Deep Learning where we studied the effects of dropout as a regularizer for preventing overfitting in deep neural networks.
 
 Please find the blogpost [here](DeepLearningReport.ipynb)
 
